@@ -3,7 +3,7 @@
 // by developedbyed
 // https://www.youtube.com/watch?v=_OwJV2xL8M8&t=2175s
 //
-// use 'npm run dev' in terminal
+// use 'npm run dev' in terminal to view
 
 import * as THREE from "three"
 import "./style.css"
