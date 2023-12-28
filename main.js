@@ -2,6 +2,8 @@
 // Three.js Crash Course For Beginners | Create This Awesome 3D Website!
 // by developedbyed
 // https://www.youtube.com/watch?v=_OwJV2xL8M8&t=2175s
+//
+//use 'npm run dev' in terminal
 
 import * as THREE from "three"
 import "./style.css"
